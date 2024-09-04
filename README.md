@@ -14,15 +14,15 @@
 
 - ⚡ Fun fact **I love making fun mini projects**
 
-- 🧑‍💻 My Codepen Projects: 
+- 🌐 My Codepen Projects: 
 
- - Kawaii Sun | Sun & Cloud Animation: https://codepen.io/yudizsolutions/pen/rNmzxWE
+  🧑‍💻 Kawaii Sun | Sun & Cloud Animation: https://codepen.io/yudizsolutions/pen/rNmzxWE
 
- - Animated Portfolio | Services Portfolio: https://codepen.io/yudizsolutions/pen/MWJqveY
+  🧑‍💻 Animated Portfolio | Services Portfolio: https://codepen.io/yudizsolutions/pen/MWJqveY
 
- - Toggle Mic On / Mic Off: https://codepen.io/yudizsolutions/pen/YzNRgpo
+  🧑‍💻 Toggle Mic On / Mic Off: https://codepen.io/yudizsolutions/pen/YzNRgpo
 
- - Neumorphic Button | Box-Shadow Hover Transition: https://codepen.io/yudizsolutions/pen/mdrKdVa 
+  🧑‍💻 Neumorphic Button | Box-Shadow Hover Transition: https://codepen.io/yudizsolutions/pen/mdrKdVa 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kinnaribuch) 
