@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kinnari.j.buch@gmail.com**
 
-- ⚡ Fun fact **I love making fun mini projects**
+- ⚡ Fun fact **Designing websites is my passion. I love bringing ideas to life through creative and functional designs, whether it's for professional projects or just fun personal ones. I especially enjoy making unique, interactive websites for my family and friends, turning their ideas into something they can see and use online.**
 
 - 🌐 My Codepen Projects: 
 
