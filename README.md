@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Kinnari Buch, designing websites is my passion. I love bringing ideas to life through creative and functional designs, whether it's for professional projects or just fun personal ones. I especially enjoy making unique, interactive websites for my family and friends, turning their ideas into something they can see and use online.
+
 # 💫 About Me:
 
 - 🔭 I’m currently working on **building my 3D portfolio website**
@@ -12,7 +14,7 @@
 
 - 📫 How to reach me **kinnari.j.buch@gmail.com**
 
-- ⚡ Fun fact **Designing websites is my passion. I love bringing ideas to life through creative and functional designs, whether it's for professional projects or just fun personal ones. I especially enjoy making unique, interactive websites for my family and friends, turning their ideas into something they can see and use online.**
+- ⚡ Fun fact **I love making fun mini projects**
 
 - 🌐 My Codepen Projects: 
 
