@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Kinnari Buch, a Frontend Developer with 4.5 years of experience. I've created over 40 responsive websites using HTML, CSS, JavaScript, WordPress, Bootstrap, and React for a variety of clients. Designing websites is my passion, and I love bringing ideas to life through creative and functional designs, whether for professional projects or fun personal ones. I especially enjoy creating personalized websites for my family, whether for birthdays, anniversaries, or other special occasions, making their celebrations even more memorable.
+I am Kinnari Buch, a Frontend Developer with 5 years of experience. I've created over 50 responsive websites using HTML, CSS, JavaScript, WordPress, Bootstrap, and React for a variety of clients. Designing websites is my passion, and I love bringing ideas to life through creative and functional designs, whether for professional projects or fun personal ones. I especially enjoy creating personalized websites for my family, whether for birthdays, anniversaries, or other special occasions, making their celebrations even more memorable.
 
 # 💫 About Me:
 
